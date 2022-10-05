@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 <!-- collins kiplangat mutai(Kiplaacollo) -->
+- [Hemang Sharma](https://github.com/hemangsharma69)
 - [Alessandro Greco](https://github.com/aleff-github)
 - [Prashant Padhy](https://github.com/prashantpadhy)
 - [Ayushi Nanavati](https://github.com/Ayyyn)
